@@ -1,0 +1,24 @@
+{
+  "name": "BLURTOPIAN TEA",
+  "keywords": [
+    "assam",
+    "tea",
+    "blurtopian",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 93384,
+      "address": "0x623769444c1BA04c55A4690bDD2955cD4f089bb7",
+      "name": "Blurtopian",
+      "symbol": "BLTPN",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
